@@ -8,10 +8,10 @@
 }
 
 .site-avatar {
-  width: 64px;
+  width: 80px;
   /* Prevent the width change by flexbox */
-  min-width: 64px;
-  max-width: 64px;
+  min-width: 80px;
+  max-width: 80px;
 }
 
 .site-bubble {
