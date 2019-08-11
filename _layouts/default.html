@@ -49,11 +49,11 @@
         {% if site.links %}
           <h2>{{ site.links.title }}</h2>
           <ul>
-          {% for item in site.links.timeline %}
-              <li>
-              <p class="site-links">{{ item }}</p>
-              </li>
-          {% endfor %}
+            {% for item in site.links.timeline %}
+                <li class="site-project">
+                <p class="site-links">{{ item }}</p>
+                </li>
+            {% endfor %}
           </ul>
         {% endif %}
 
