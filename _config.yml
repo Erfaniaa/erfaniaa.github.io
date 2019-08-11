@@ -1,57 +1,44 @@
 title: Erfan Alimohammadi
-description: 
+description: in Persian "عرفان علی‌محمّدی"
 
 social:
   - title: GitHub
     img: /assets/images/github.ico
     url: https://github.com/erfaniaa
-  - title: V2EX
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/member/xcatliu?r=xcatliu
-  - title: Blog
-    img: /assets/images/avatar.png
-    url: http://blog.xcatliu.com
+  - title: Blog (in Persian)
+    img: /assets/images/blog.png
+    url: http://palindrome.ir
   - title: Twitter
     img: /assets/images/twitter.ico
-    url: https://twitter.com/xcatliu
+    url: https://twitter.com/erfanafre
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:erfan.aa@gmail.com
 
-avatar: /assets/images/avatar.png
+avatar: /assets/images/avatar.jpg
 introduction: >
   Hi! I'm Erfan Alimohammadi.<br/>
+  This is my personal web page.<br/>
 
 projects:
   title: Open Source Projects
   github:
-    - xcatliu/mobi.css
-    - xcatliu/typescript-tutorial
-    - xcatliu/react-ie8
-    - xcatliu/jekyllcn
-    - xcatliu/leetcode
+    - Erfaniaa/text-to-commit-history
+    - Erfaniaa/codes2pdf
+    - Erfaniaa/map-coloring
+    - Erfaniaa/Tweeterify
+    - Erfaniaa/Codeforces
+    - Erfaniaa/compilers-course-project
+    - Erfaniaa/Persian-OCR
   content: >
-    <p>Other projects that I have contributed can be found in <a href="https://github.com/xcatliu">github.com/xcatliu</a>.</p>
-    <p>If you love my projects, please <a href="https://github.com/xcatliu/buy-me-a-coffee">buy me a coffee</a> to support me.</p>
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/Erfaniaa">github.com/Erfaniaa</a>.</p>
 
 working:
-  title: Working Experience
+  title: Related Profile Links
   timeline:
-    - date: Now
-    - "Microsoft: Software Engineer II"
-    - date: 2016-04
-    - "Meituan: Senior Front-End Engineer"
-    - date: 2015-04
-    - "Meituan: Front-End Engineer"
-    - date: 2013-06
-    - "Meituan: Front-End Engineer Internship"
-    - date: 2012-10
+    - "<a href='https://erfaniaa.github.io/resume.pdf'>My resume</a>"
+    - "<a href='https://linkedin.com/in/erfan-alimohammadi'>My LinkedIn profile</a>"
+    - "<a href='https://icpc.baylor.edu/ICPCID/0X1FK464JA9X'>My ICPCID</a>"
+    - "<a href='https://stackoverflow.com/users/2635857/erfan-alimohammadi'>My Stack Overflow profile</a>"
 
-education:
-  title: Education Background
-  timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
-
-google_analytics: UA-45256157-13
+google_analytics: UA-145465443-1
