@@ -2,18 +2,21 @@ title: Erfan Alimohammadi
 description: in Persian "عرفان علی‌محمّدی"
 
 social:
-  - title: GitHub
-    img: /assets/images/github.ico
-    url: https://github.com/erfaniaa
   - title: Blog (in Persian)
     img: /assets/images/blog.png
     url: http://palindrome.ir
+  - title: GitHub
+    img: /assets/images/github.ico
+    url: https://github.com/erfaniaa
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/erfanafre
-  - title: Gmail
-    img: /assets/images/gmail.png
-    url: mailto:erfan.aa@gmail.com
+  - title: Stack Overflow
+    img: /assets/images/stack_overflow.png
+    url: https://stackoverflow.com/users/2635857/erfan-alimohammadi
+  - title: LinkedIn
+    img: /assets/images/linkedin.jpg
+    url: https://linkedin.com/in/erfan-alimohammadi
 
 avatar: /assets/images/avatar.jpg
 introduction: >
@@ -34,11 +37,12 @@ projects:
     <p>Other projects that I have contributed can be found in <a href="https://github.com/Erfaniaa">github.com/Erfaniaa</a>.</p>
 
 links:
-  title: Related Profile Links
+  title: Related Pages
   timeline:
-    - "<a href='https://erfaniaa.github.io/resume.pdf'>My resume</a>"
-    - "<a href='https://linkedin.com/in/erfan-alimohammadi'>My LinkedIn profile</a>"
-    - "<a href='https://icpc.baylor.edu/ICPCID/0X1FK464JA9X'>My ICPCID</a>"
-    - "<a href='https://stackoverflow.com/users/2635857/erfan-alimohammadi'>My Stack Overflow profile</a>"
+    - "<a href='http://palindrome.ir'>Blog (in Persian)</a>"
+    - "<a href='https://erfaniaa.github.io/resume.pdf'>Resume (PDF)</a>"
+    - "<a href='https://linkedin.com/in/erfan-alimohammadi'>LinkedIn profile</a>"
+    - "<a href='https://icpc.baylor.edu/ICPCID/0X1FK464JA9X'>ICPCID</a>"
+    - "<a href='https://stackoverflow.com/users/2635857/erfan-alimohammadi'>Stack Overflow profile</a>"
 
 google_analytics: UA-145465443-1
