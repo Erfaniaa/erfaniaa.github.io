@@ -46,27 +46,15 @@
         {% endif %}
 
 
-        {% if site.working %}
-          <h2>{{ site.working.title }}</h2>
-          {% for item in site.working.timeline %}
-            {% if item.date %}
-              <p class="site-date"><small><time>{{ item.date }}</time></small></p>
-            {% else %}
-              <p class="site-experience">{{ item }}</p>
-            {% endif %}
+        {% if site.links %}
+          <h2>{{ site.links.title }}</h2>
+          <ul>
+          {% for item in site.links.timeline %}
+              <li>
+              <p class="site-links">{{ item }}</p>
+              </li>
           {% endfor %}
-        {% endif %}
-
-
-        {% if site.education %}
-          <h2>{{ site.education.title }}</h2>
-          {% for item in site.education.timeline %}
-            {% if item.date %}
-              <p class="site-date"><small><time>{{ item.date }}</time></small></p>
-            {% else %}
-              <p class="site-experience">{{ item }}</p>
-            {% endif %}
-          {% endfor %}
+          </ul>
         {% endif %}
 
         {{ content }}

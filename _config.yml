@@ -33,12 +33,12 @@ projects:
   content: >
     <p>Other projects that I have contributed can be found in <a href="https://github.com/Erfaniaa">github.com/Erfaniaa</a>.</p>
 
-working:
+links:
   title: Related Profile Links
   timeline:
-    - "<p><a href='https://erfaniaa.github.io/resume.pdf'>My resume</a></p>"
-    - "<p><a href='https://linkedin.com/in/erfan-alimohammadi'>My LinkedIn profile</a></p>"
-    - "<p><a href='https://icpc.baylor.edu/ICPCID/0X1FK464JA9X'>My ICPCID</a></p>"
-    - "<p><a href='https://stackoverflow.com/users/2635857/erfan-alimohammadi'>My Stack Overflow profile</a></p>"
+    - "<a href='https://erfaniaa.github.io/resume.pdf'>My resume</a>"
+    - "<a href='https://linkedin.com/in/erfan-alimohammadi'>My LinkedIn profile</a>"
+    - "<a href='https://icpc.baylor.edu/ICPCID/0X1FK464JA9X'>My ICPCID</a>"
+    - "<a href='https://stackoverflow.com/users/2635857/erfan-alimohammadi'>My Stack Overflow profile</a>"
 
 google_analytics: UA-145465443-1
