@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://erfaniaa.github.io/</loc>
-    <lastmod>2022-08-10T15:42:54+02:00</lastmod>
-  </url><url>
-    <loc>https://erfaniaa.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-08-10T15:42:54+02:00</lastmod>
-  </url><url>
-    <loc>https://erfaniaa.github.io/posts/</loc>
-    <lastmod>2022-08-10T15:42:54+02:00</lastmod>
-  </url><url>
-    <loc>https://erfaniaa.github.io/categories/</loc>
-  </url><url>
-    <loc>https://erfaniaa.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://erfaniaa.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://erfaniaa.github.io/fa/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://erfaniaa.github.io/sitemap.xml
